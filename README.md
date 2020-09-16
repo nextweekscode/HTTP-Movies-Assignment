@@ -4,7 +4,7 @@
 
 ### Task 1: Project Setup 
 
-- **Fork** this repository, then clone your fork.
+- **Fork** this repository, then clone your fork.aasdfsaf
 - Run `npm install` to download dependencies.
 - Run the server using `npm start`.
 - In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
